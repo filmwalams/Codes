@@ -10,6 +10,7 @@
 #define maxn 1000000 + 5
 using namespace std;
 typedef long long ll;
+typedef long long int lli;
 ll m;
 void input(){
      #ifndef ONLINE_JUDGE
